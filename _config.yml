@@ -1,36 +1,19 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: Hacked Jekyll
-description: Jekyll microtheme that looks like JSON
+title: Albummer
+description: rate, share and descover albums
 baseurl: ""
-url: https://hacked-jekyll.netlify.app
+url: https://riritheri2reriri.github.io/Albummer/
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: Albummer
   description:
-    - Hello!
-    - This tiny website
-    - Looks like json
+    - rate, share and descover albums
   cv: assets/cv.pdf
-  address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
-  contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
-  demo: https://hacked-jekyll.netlify.app
-  source: https://github.com/piazzai/hacked-jekyll
   profiles:
-    facebook: https://www.facebook.com
-    twitter: https://twitter.com
-    instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com
-    stackoverflow: https://stackoverflow.com
-    github: https://github.com
+    spotify: https://open.spotify.com/user/31knbdfv7uujcgivlgvv3cljzboa?si=b3e7165279a042c4
 
 exclude:
   - LICENSE
